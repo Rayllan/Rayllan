@@ -12,15 +12,24 @@
 ### Social 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayllan-christian/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/euchriis/)
-
 
 
 ### Technologies 🖥️
 
 <div stule="display: inline_block"></>
  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-</div><br/>
+</div>
+<div stule="display: inline_block"></>
+ <img align="center" alt="Java" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+</div>
+<div stule="display: inline_block"></>
+ <img align="center" alt="Java" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+</div>
+<div stule="display: inline_block"></>
+ <img align="center" alt="Java" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+</div>
+	
+<br/>
 
 
 - Systems analysis and development Student! 🧑‍🎓
